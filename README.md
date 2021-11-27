@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbrudnowski
 - 👀 I’m interested in data science and AI 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently developing SQL skills
 - 💞️ I’m looking for an internship
 - 📫 How to reach me -> https://www.linkedin.com/in/krzysztof-brudnowski-0107
 
