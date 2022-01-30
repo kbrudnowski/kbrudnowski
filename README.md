@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbrudnowski
 - 👀 I’m interested in data science and AI 
-- 🌱 I’m currently expanding my python programming skills
+- 🌱 I’m currently expanding my machine learning skills
 - 💞️ I’m looking for project or job offers
 - 📫 How to reach me -> https://www.linkedin.com/in/krzysztof-brudnowski-0107/?locale=en_US
 
