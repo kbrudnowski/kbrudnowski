@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and AI 
 - 🌱 I’m currently expanding my machine learning skills
 - 💞️ I’m looking for project or job offers
-- 📫 How to reach me -> https://www.linkedin.com/in/krzysztof-brudnowski/
+
 
 <!---
 kbrudnowski/kbrudnowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
