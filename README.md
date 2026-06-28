@@ -1,4 +1,4 @@
-## Hi, I'm Krzysztof
+## Hi, I'm Chris
 
 Senior software and data engineer based in Gdańsk, 5+ years building things in Python that run in production.
 
@@ -10,14 +10,14 @@ Recent highlights:
 - Designed and shipped invoicing automation saving ~4 h/day of manual work; PySpark demand forecasting pipelines across ~500k SKUs per client
 
 **Data & infra:** Python · SQL · dbt · Airflow · PySpark · BigQuery · GCP · Terraform · Docker  
-**AI & automation:** Claude/OpenAI APIs · autonomous agents · Selenium · LangChain patterns  
+**AI & automation:** Claude/OpenAI APIs · autonomous agents · LangGraph · LangChain · Selenium  
 **Engineering:** CI/CD · TDD · Git · REST APIs · scikit-learn
 
 ---
 
 **Projects**
 
-[squaber-alert](https://github.com/kbrudnowski/squaber-alert) — GPW stock scrapers (Squaber ratings + XTB ticker list); Kafka → PySpark → Telegram alert pipeline  
+[ai-trading-signals](https://github.com/kbrudnowski/ai-trading-signals) — GPW trading signal pipeline: Selenium scrapers → LangGraph StateGraph (indicators, rules, LLM analysis) → Telegram alerts + broker execution  
 [AirQualityDataHandler](https://github.com/kbrudnowski/AirQualityDataHandler) — air quality data pipeline on GCP (OpenAQ API → Cloud Function → Cloud Storage)  
 [WedApp](https://github.com/kbrudnowski/WedApp) — wedding guest media uploader on Cloudflare Pages + D1 + Google Drive, offline-resilient upload queue  
 [ebitda-scrapper](https://github.com/kbrudnowski/ebitda-scrapper) — financial data scraper
