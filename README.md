@@ -10,7 +10,8 @@ Lately that's meant building autonomous AI agents handling thousands of daily bu
 
 **Projects**
 
-[squaber-alert](https://github.com/kbrudnowski/squaber-alert) — stock alert pipeline: Python scrapers → Kafka → PySpark streaming → Telegram  
+[WedApp](https://github.com/kbrudnowski/WedApp) — wedding guest media uploader on Cloudflare Pages + D1 + Google Drive, offline-resilient upload queue  
+[squaber-alert](https://github.com/kbrudnowski/squaber-alert) — GPW scrapers (Squaber ratings + XTB ticker list); Kafka → PySpark → Telegram alert pipeline planned  
 [AirQualityDataHandler](https://github.com/kbrudnowski/AirQualityDataHandler) — air quality data pipeline on GCP (OpenAQ API → Cloud Function → Cloud Storage)  
 [ebitda-scrapper](https://github.com/kbrudnowski/ebitda-scrapper) — financial data scraper
 
