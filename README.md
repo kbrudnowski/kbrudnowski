@@ -26,4 +26,4 @@ Most of the production work is proprietary — happy to walk through it.
 
 ---
 
-[kbrudnowski.github.io](https://kbrudnowski.github.io) · krzysztof.brudnowski@gmail.com
+krzysztof.brudnowski@gmail.com
